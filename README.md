@@ -1,4 +1,4 @@
-# testecharts
+# FlutterApexChart
 
 A new Flutter project.
 
